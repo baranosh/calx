@@ -3,7 +3,7 @@ It sums the scores of all projects average scores and divides them by the number
 
 So far, we have done 0-day, Low level programming, System engineering and algorithm as well as Evaluations and this is atotal of four (4) projects. The program collects the point for each projects, addsthem up and divides them by the total number of projects done. 
 
-This program will receive constant updates as more projects will be given to us from ALX. 
+This program will receive constant updates as more projects will be given to us from ALX. The password is 11224
 
 Find below the instructions for how to run the codes on your pc.
 INSTRUCTION
