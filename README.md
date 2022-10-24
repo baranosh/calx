@@ -21,3 +21,6 @@ Download the file here https://github.com/baranosh/program-to-calculate-alx-aver
 
 Thank you.
 
+![WhatsApp Image 2022-10-23 at 03 01 33](https://user-images.githubusercontent.com/108129721/197519956-f763f2d5-9f42-4cd2-80dc-a570e06d7964.jpeg)
+![WhatsApp Image 2022-10-23 at 02 59 23](https://user-images.githubusercontent.com/108129721/197519961-418070e1-2162-45a1-9779-f78ce4959c10.jpeg)
+![WhatsApp Image 2022-10-23 at 02 58 34](https://user-images.githubusercontent.com/108129721/197519964-f1c2fe95-ff81-4ef0-b1f6-1ca242d727b8.jpeg)
