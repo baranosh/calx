@@ -1,5 +1,6 @@
 # Average Score
-![Average_Score](https://user-images.githubusercontent.com/108129721/197713508-77cdf374-8e04-4a28-ae81-babf062165f2.png)
+![Average_Score (1)](https://user-images.githubusercontent.com/108129721/197713764-b6b4d888-722d-4959-8dd3-eeb865f72c36.png)
+
 
 This Program is designed to calculate the average scores of alx students.
 
