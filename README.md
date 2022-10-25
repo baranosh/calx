@@ -8,7 +8,7 @@ It sums the scores of all projects average scores and divides them by the number
 
 So far, we have done 0-day, Low level programming, System engineering and algorithm as well as Evaluations and this is atotal of four (4) projects. The program collects the point for each projects, addsthem up and divides them by the total number of projects done. 
 
-![carbon](https://user-images.githubusercontent.com/108129721/197716823-7a0a4fa1-c2e2-4dfd-805a-8dd04533e300.png)
+![carbon (1)](https://user-images.githubusercontent.com/108129721/197717718-3a27aec0-b125-4360-bc5d-c7ef1d8dc853.png)
 
 This program will receive constant updates as more projects will be given to us from ALX. The password is *11224*
 
