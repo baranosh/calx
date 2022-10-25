@@ -1,5 +1,6 @@
 # Average Score
-![GitLab tag (latest by date)](https://img.shields.io/gitlab/v/tag/v0.1?sort=October%2023&style=plastic)
+![Average_Score](https://user-images.githubusercontent.com/108129721/197713508-77cdf374-8e04-4a28-ae81-babf062165f2.png)
+
 This Program is designed to calculate the average scores of alx students.
 
 It sums the scores of all projects average scores and divides them by the number of projects done to give you the overa+rall total scores.
