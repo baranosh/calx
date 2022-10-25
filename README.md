@@ -1,5 +1,5 @@
 # Average Score
-
+![GitLab tag (latest by date)](https://img.shields.io/gitlab/v/tag/v0.1?sort=October%2023&style=plastic)
 This Program is designed to calculate the average scores of alx students.
 
 It sums the scores of all projects average scores and divides them by the number of projects done to give you the overa+rall total scores.
@@ -24,7 +24,3 @@ Kindly follow my GitHub for more projects. For my next project, I plan to design
 Download the file here https://github.com/baranosh/program-to-calculate-alx-average-score/releases/tag/v0.1
 
 Thank you.
-
-![WhatsApp Image 2022-10-23 at 03 01 33](https://user-images.githubusercontent.com/108129721/197519956-f763f2d5-9f42-4cd2-80dc-a570e06d7964.jpeg)
-![WhatsApp Image 2022-10-23 at 02 59 23](https://user-images.githubusercontent.com/108129721/197519961-418070e1-2162-45a1-9779-f78ce4959c10.jpeg)
-![WhatsApp Image 2022-10-23 at 02 58 34](https://user-images.githubusercontent.com/108129721/197519964-f1c2fe95-ff81-4ef0-b1f6-1ca242d727b8.jpeg)
