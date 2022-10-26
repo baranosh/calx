@@ -4,9 +4,9 @@
 
 This Program is designed to calculate the average scores of alx students.
 
-It sums the scores of all projects average scores and divides them by the number of projects done to give you the overa+rall total scores.
+It sums the scores of all projects average scores and divides them by the number of projects done to give you the overall total scores.
 
-So far, we have done 0-day, Low level programming, System engineering and algorithm as well as Evaluations and this is atotal of four (4) projects. The program collects the point for each projects, addsthem up and divides them by the total number of projects done. 
+So far, we have done 0-day, Low level programming, System engineering and algorithm as well as Evaluations and this is a total of four (4) projects. The program collects the point for each projects, adds them up and divides them by the total number of projects done. 
 
 ![carbon (1)](https://user-images.githubusercontent.com/108129721/197717718-3a27aec0-b125-4360-bc5d-c7ef1d8dc853.png)
 
