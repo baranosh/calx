@@ -2,7 +2,7 @@
 ![Average_Score (1)](https://user-images.githubusercontent.com/108129721/197713764-b6b4d888-722d-4959-8dd3-eeb865f72c36.png)
 
 
-This Program is designed to calculate the average scores of alx students.
+This Program is designed to calculate the average scores of alx students, currently in cohort 10.
 
 It sums the scores of all projects average scores and divides them by the number of projects done to give you the overall total scores.
 
