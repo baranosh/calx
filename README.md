@@ -14,7 +14,7 @@ This program will receive constant updates as more projects will be given to us 
 
 Find below the instructions for how to run the codes on your pc.
 
-## INSTRUCTION
+## INSTRUCTIONS
   - Download the .exe file named calx.
   - Save it on your desktop (for easy access).
   - Open your cmd or whatever terminal you use.
