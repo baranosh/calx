@@ -15,11 +15,11 @@ This program will receive constant updates as more projects will be given to us 
 Find below the instructions for how to run the codes on your pc.
 
 ## INSTRUCTION
-  - Download the .exe file named a.
+  - Download the .exe file named calx.
   - Save it on your desktop (for easy access).
-  - Open your cmd or Command Prompt.
+  - Open your cmd or whatever terminal you use.
   - cd into your desktop (do this if you actually are following my instructions and the exe is on your desktop. If it is not there then cd into the path where you saved the exe).
-  - Just hit the a button and the code will run.
+  - And run the exe file with this operation `./calx` button and the code will run.
 
 *NOTE: It is passworded. Not because it has a virus but I set it that way for more interaction. It has no virus or corrupt files. I have had other students test it out and have gotten good feedbacks.*
 
